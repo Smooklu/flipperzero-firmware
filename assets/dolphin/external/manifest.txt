@@ -99,6 +99,13 @@ Min level: 1
 Max level: 3
 Weight: 4
 
+Name: L1_Printer_on_Fire_128x64
+Min butthurt: 0
+Max butthurt: 9
+Min level: 1
+Max level: 3
+Weight: 6
+
 Name: L3_Hijack_radio_128x64
 Min butthurt: 0
 Max butthurt: 8
